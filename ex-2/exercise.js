@@ -6,3 +6,5 @@ function furtune(kids, partner, geoloc, job){
 window.alert("You will be a "+job+" in "+geoloc+" and married to "+partner+" with "+kids+" kids.");
 }
 furtune()
+furtune()
+furtune()
